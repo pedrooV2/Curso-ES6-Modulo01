@@ -1,4 +1,4 @@
-# Curso-ES6-
+# Curso-ES6-modulo01
 Aplicação das novas tecnologias da linguagem JavaScript a partir da versão ES6+.
 
 
