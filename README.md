@@ -1,4 +1,4 @@
-# Curso-ES6-modulo02
+# Curso-ES6-modulo01
 Aplicação das novas tecnologias da linguagem JavaScript a partir da versão ES6+.
 
 
@@ -21,14 +21,14 @@ Aplicação das novas tecnologias da linguagem JavaScript a partir da versão ES
     ```
     yarn
     ```
-    para instalar todas as dependências.</li>
+   para instalar todas as dependências.</li>
 
   <li>Em seguida execute o comando:
 
     ```
     yarn dev
     ```
-    para subir o serviço do babel.</li>
+   para subir o serviço do babel.</li>
 
   <li>Copie o conteúdo de um dos conceitos e cole no arquivo main.js para executar.
     Para visualizar as informações, abra o arquivo index.html no navegador, abra as ferramentas do desenvolvedor
@@ -45,6 +45,6 @@ Aplicação das novas tecnologias da linguagem JavaScript a partir da versão ES
     ```
     Exemplo: <script src = 'ex5.js'></script>.
     ```
-    <li>Para visualizar as informações, abra o arquivo index.html no navegador, abra as ferramentas do desenvolvedor
+   <li>Para visualizar as informações, abra o arquivo index.html no navegador, abra as ferramentas do desenvolvedor
       na aba console.</li>
   </ul>
