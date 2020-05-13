@@ -43,7 +43,7 @@ yarn dev
     <li>No arquivo index.html, coloque o nome do exercício que deseja visualizar no source da tag <script></li>.
 
 ```
-Exemplo: <script src = 'ex5.js'></script>.
+Exemplo: <script src = 'ex5.js'></script>
 ```
    <li>Para visualizar as informações, abra o arquivo index.html no navegador, abra as ferramentas do desenvolvedor
       na aba console.</li>
