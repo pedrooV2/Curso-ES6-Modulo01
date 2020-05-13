@@ -40,7 +40,7 @@ yarn dev
 ### Desafios
 
   <ul>
-    <li>No arquivo index.html, coloque o nome do exercício que deseja visualizar no source da tag <script></li>.
+    <li>No arquivo index.html, coloque o nome do exercício que deseja visualizar no source da tag <script></li>
 
 ```
 Exemplo: <script src = 'ex5.js'></script>
