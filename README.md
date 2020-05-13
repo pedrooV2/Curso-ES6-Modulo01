@@ -22,7 +22,7 @@ Aplicação das novas tecnologias da linguagem JavaScript a partir da versão ES
   ```
   yarn
   ```
-  para instalar tosas as dependências.</li> 
+  para instalar todas as dependências.</li> 
   <li>Em seguida execute o comando:
   
   ```
