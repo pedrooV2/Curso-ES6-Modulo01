@@ -16,18 +16,18 @@ Aplicação das novas tecnologias da linguagem JavaScript a partir da versão ES
 
 <ul>
 
-  <li>Dentro do diretório modulo01/conceitos, execute no terminal o comando:
-
-    ```
-    yarn
-    ```
+  <li>Dentro da pasta conceitos, execute no terminal o comando:
+  
+```
+yarn
+```
    para instalar todas as dependências.</li>
 
   <li>Em seguida execute o comando:
 
-    ```
-    yarn dev
-    ```
+```
+yarn dev
+```
    para subir o serviço do babel.</li>
 
   <li>Copie o conteúdo de um dos conceitos e cole no arquivo main.js para executar.
@@ -42,9 +42,9 @@ Aplicação das novas tecnologias da linguagem JavaScript a partir da versão ES
   <ul>
     <li>No arquivo index.html, coloque o nome do exercício que deseja visualizar no source da tag <script></li>.
 
-    ```
-    Exemplo: <script src = 'ex5.js'></script>.
-    ```
+```
+Exemplo: <script src = 'ex5.js'></script>.
+```
    <li>Para visualizar as informações, abra o arquivo index.html no navegador, abra as ferramentas do desenvolvedor
       na aba console.</li>
   </ul>
